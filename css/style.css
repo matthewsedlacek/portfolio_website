@@ -987,9 +987,9 @@ div.footer .copyright {
 		height:100px;
 		background-color:#ededed;
 		position:relative;
-		width: 590px;
-		padding-left: 80px;
-		padding-right: 80px;
+		width: 610px;
+		padding-left: 20px;
+		padding-right: 20px;
 	}
 	/*-------------------------------------------------------*/
 		/* Profile Section */
