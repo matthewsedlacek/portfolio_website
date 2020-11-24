@@ -1064,7 +1064,7 @@ div.footer .copyright {
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 	#container {
-		width:500px;
+		width:470px;
 	}
 	/*-------------------------------------------------------*/
 		/* Top Section */
@@ -1084,9 +1084,9 @@ div.footer .copyright {
 	.socialicons {
 		margin-top:9px;
 	}
-	.socials-text {
+	/* .socials-text {
 		display:none !important;
-	}
+	} */
 	/*-------------------------------------------------------*/
 		/* Profile Section */
 	/*-------------------------------------------------------*/
